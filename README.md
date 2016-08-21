@@ -12,6 +12,7 @@ WolfHUD  (VERY cusomizable)
 1. Drag everything into steamapps\common\PAYDAY 2
 
 TO INSTALL BIG LOBBIES (MORE THAN 4 PEOPLE):
+
 1. Open the extracted "Bundle Modder" folder in your "PAYDAY 2" folder
 2. Open PDBundleModPatcher.exe (wait a few seconds for it to start)
 3. Set the "Game Asset Folder" in "Options/About" to "steamapps\common\PAYDAY 2\assets"
