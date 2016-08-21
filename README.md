@@ -1,13 +1,6 @@
 # Central-Hub-Modpack
 PACK BY REP AND JSKODE
 
-MODS INCLUDED:
-
-1. Payday BLT Loader
-2. PiratePerfection Trainer (cheat functions disabled, DLC unlocker only)
-3. Returnable Masks
-4. WolfHUD  (VERY cusomizable) jskode edit to fix colours
-
 How to install:
 
 1. Drag everything into steamapps\common\PAYDAY 
@@ -29,4 +22,11 @@ TO JOIN ONLINE LOBBIES AND NOT GET INSTAKICKED DUE TO DLC UNLOCKER AND BIGLOBBIE
 1. OPTIONS -> LUA MODS
 2. UNTICK BIG LOBBIES AND PIRATE PERFECTION
 3. RESTART PAYDAY 2
+
+MODS INCLUDED:
+
+1. Payday BLT Loader
+2. PiratePerfection Trainer (cheat functions disabled, DLC unlocker only)
+3. Returnable Masks
+4. WolfHUD  (VERY cusomizable) jskode edit to fix colours
 
