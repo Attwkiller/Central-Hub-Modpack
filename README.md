@@ -9,7 +9,7 @@ How to install:
 4. Set the "Game Asset Folder" in "Options/About" to "steamapps\common\PAYDAY 2\assets"
 5. Go to the "Mods" Tab
 6. Click tickbox on the "BigLobby" PDMOD
-7. Select "Apply Changes"
+7. Select "Apply Changes" and wait for it to install
 8. Close Bundle Modder and enjoy
 
 CUSTOMIZE WOLF HUD:
@@ -26,7 +26,7 @@ TO JOIN ONLINE LOBBIES AND NOT GET INSTAKICKED DUE TO DLC UNLOCKER AND BIGLOBBIE
 MODS INCLUDED:
 
 1. Payday BLT Loader
-2. PiratePerfection Trainer (cheat functions disabled, DLC unlocker only)
-3. Returnable Masks
-4. WolfHUD  (VERY cusomizable) jskode edit to fix colours
-
+2. PiratePerfection Trainer [jskode edit to disable cheat functions]
+3. Returnable Masks [jskode edit to fix colours]
+4. WolfHUD
+5. BigLobbies
