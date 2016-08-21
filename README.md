@@ -1,5 +1,4 @@
 # Central-Hub-Modpack
-HOW TO BY REP
 PACK BY REP AND JSKODE
 
 MODS INCLUDED:
