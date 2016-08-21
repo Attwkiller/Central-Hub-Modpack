@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ProgramSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <AssetsFolder></AssetsFolder>
+  <AssetsFolder />
   <CurrentVersion>1.54.10</CurrentVersion>
   <BackupType>0</BackupType>
   <Game>PAYDAY 2</Game>
