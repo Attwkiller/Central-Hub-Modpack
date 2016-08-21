@@ -3,10 +3,12 @@ PACK BY REP AND JSKODE
 
 MODS INCLUDED:
 
-Payday BLT Loader
-PiratePerfection Trainer (cheat functions disabled, DLC unlocker only)
-Returnable Masks
-WolfHUD  (VERY cusomizable)
+1. Payday BLT Loader
+2. PiratePerfection Trainer (cheat functions disabled, DLC unlocker only)
+3. Returnable Masks
+4. WolfHUD  (VERY cusomizable) jskode edit to fix colours
+
+How to install:
 
 1. Drag everything into steamapps\common\PAYDAY 
 2. Open the extracted "Bundle Modder" folder in your "PAYDAY 2" folder
