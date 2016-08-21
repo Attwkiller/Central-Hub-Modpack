@@ -1,0 +1,25 @@
+{
+	"name": "Returnable Masks, Patterns and Materials",
+	"description": "Makes most masks, patterns and materials returnable.",
+	"author": "McKillem, based on code by SC",
+	"version": "1.01",
+	"priority": 0,
+	"hooks": [
+		{
+			"hook_id": "lib/tweak_data/blackmarket/maskstweakdata",
+			"script_path": "rm1.lua"
+		},
+		{
+			"hook_id": "lib/tweak_data/blackmarket/materialstweakdata",
+			"script_path": "rm2.lua"
+		},
+		{
+			"hook_id": "lib/tweak_data/blackmarket/texturestweakdata",
+			"script_path": "rm3.lua"
+		},
+		{
+			"hook_id": "lib/tweak_data/blackmarket/colorstweakdata",
+			"script_path": "rm4.lua"
+		}
+	]
+}

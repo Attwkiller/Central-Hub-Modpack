@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ProgramSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AssetsFolder></AssetsFolder>
+  <CurrentVersion>1.54.10</CurrentVersion>
+  <BackupType>0</BackupType>
+  <Game>PAYDAY 2</Game>
+  <GameShortName>PAYDAY 2</GameShortName>
+  <GameProcess>payday2_win32_release</GameProcess>
+  <GameSteamID>218620</GameSteamID>
+  <GameSupportsOverride>true</GameSupportsOverride>
+  <AdvancedUser>false</AdvancedUser>
+  <PatchBuffer>2</PatchBuffer>
+  <OverrideFolder>true</OverrideFolder>
+  <OverrideFolderDummies>true</OverrideFolderDummies>
+  <OverrideFolderShared>true</OverrideFolderShared>
+  <Autocompletion>true</Autocompletion>
+  <PlaySoundOnCompletion>true</PlaySoundOnCompletion>
+  <RunGameOnCompletion>false</RunGameOnCompletion>
+  <CheckForUpdatesOnLaunch>true</CheckForUpdatesOnLaunch>
+  <AlwaysPasswordProtect>true</AlwaysPasswordProtect>
+  <ShowOverrideMods>true</ShowOverrideMods>
+  <ThemeSelection>0</ThemeSelection>
+  <WriteConsole>false</WriteConsole>
+  <ShowExtractProblem>true</ShowExtractProblem>
+  <IgnoreExistingFiles>false</IgnoreExistingFiles>
+  <ExtensionConversion />
+</ProgramSettings>
